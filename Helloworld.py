@@ -1,6 +1,7 @@
 print("Hello world")
 
-print("U SQUARED CLUB")
+print("hiii")
+
 
 a= 20
 b=30
